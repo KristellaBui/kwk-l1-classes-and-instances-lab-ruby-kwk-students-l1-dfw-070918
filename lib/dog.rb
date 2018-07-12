@@ -18,3 +18,4 @@ end
 def lassie
   @lassie
 end
+
