@@ -1,4 +1,4 @@
 class Dog
 end
 
-def dogs 
+def dogs (fido, snoopy,lassie)
