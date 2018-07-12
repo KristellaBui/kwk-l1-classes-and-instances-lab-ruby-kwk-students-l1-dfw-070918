@@ -1,22 +1,22 @@
 class Dog
 end
 
-def dogs (fido, snoopy, lassie)
-  @fido = fido
-  @snoopy = snoopy
-  @lassie = lassie
+def dogs (dog1, dog2, dog3)
+  @dog1 = dog1
+  @dog2 = dog2
+  @dog3 = dog3
 end 
 
-def fido
-  @fido
+def dog1
+  @dog1
 end
 
-def snoopy
-  @snoopy
+def dog2
+  @dog2
 end
 
-def lassie
-  @lassie
+def dog3
+  @dog3
 end
 
 def update_author(new_author)
