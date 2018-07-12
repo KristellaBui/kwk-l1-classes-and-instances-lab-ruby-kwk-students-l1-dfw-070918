@@ -19,6 +19,6 @@ def dog3
   @dog3
 end
 
-def update_author(new_author)
-    @author = new_author
+def update_dog1(Fido)
+    @dog1 = Fido
   end 
