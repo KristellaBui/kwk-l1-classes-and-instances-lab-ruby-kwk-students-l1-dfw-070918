@@ -18,3 +18,7 @@ end
 def lassie
   @lassie
 end
+
+def update_author(new_author)
+    @author = new_author
+  end 
